@@ -1,3 +1,3 @@
 # methods_SplitData
 
-# created by Rosario Sánchez G.
+#-- created by Rosario Sánchez G.
