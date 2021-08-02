@@ -1,6 +1,6 @@
 # Methods_SplitData
 
-This project uses the KNN algorithm found in the PYOD library, for its operation it makes use of data splitting through the use of different separation methodologies. Data splitting is very important in our initial dataset, as it supports us to work with training data and test data.
+This project uses the KNN algorithm found in the PYOD library & Sklearn, for its operation it makes use of data splitting through the use of different separation methodologies. Data splitting is very important in our initial dataset, as it supports us to work with training data and test data.
 
 ### Pre-requisitos 📋
 
